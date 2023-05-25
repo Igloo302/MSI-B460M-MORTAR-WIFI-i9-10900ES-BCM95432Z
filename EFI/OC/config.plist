@@ -1051,7 +1051,7 @@
 				<key>bluetoothExternalDongleFailed</key>
 				<data>AA==</data>
 				<key>bluetoothInternalControllerInfo</key>
-				<data> AAAAAAAAAAAAAAAAAAA=</data>
+				<data>AAAAAAAAAAAAAAAAAAA=</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1114,7 +1114,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02120207GU0000JC</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1126,9 +1126,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02FQ0EG046M</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>4F6B76C8-BF7E-49F3-A76C-F2C1DB34ECBD</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
